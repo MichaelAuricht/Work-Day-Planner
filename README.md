@@ -51,5 +51,5 @@ It would be good to add a page functionality to store the information for multip
 
 ## --Links--
 
-
-
+Deployed Page - https://michaelauricht.github.io/week-5-work-day-scheduler/
+GitHub Repo - https://github.com/MichaelAuricht/week-5-work-day-scheduler/
