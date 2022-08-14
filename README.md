@@ -1,10 +1,10 @@
 # Work Day Scheduler App
 
-## -**User Story**-
+## **User Story**
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-### --**Features**--
+### **Features**
 ```
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -19,7 +19,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-### --**Development Process**--
+### **Development Process**
 
 Using the supplied index.html and style.css to provide the initial framework, I worked gradually through jscript syntax to apply components of the app. 
 
@@ -27,7 +27,7 @@ I started with the date and time elements at the top of the page before going to
 
 Then I worked to create the dynamism that would change the colours of the day depending on the time of day, so the past is grey, the present is red, and the future is green.
 
-### --**Installation & Usage Instructions**--
+### **Installation & Usage Instructions**
 
 Simply follow the link at the bottom of the page. No installation is necessary.
 
@@ -41,16 +41,17 @@ As the time passes during the day the colours of the blocks will change.
 
 HTML, CSS, JavaScript, JQuery and moment.min
 
-### --**Directions for Future Development**--
+### **Directions for Future Development**
 
 It would be good to add a page functionality to store the information for multiple days, as well as clear functionality to easily remove saved data.
 
-## --**Screenshot**--
+## **Screenshot**
 
 ![Work Day Scheduler](https://i.imgur.com/hieg2pv.jpg)
 
-## --**Links**--
-```
-Deployed Page - https://michaelauricht.github.io/week-5-work-day-scheduler/
-GitHub Repo - https://github.com/MichaelAuricht/week-5-work-day-scheduler/
-```
+## **Links**
+
+[Deployed Page](https://michaelauricht.github.io/week-5-work-day-scheduler/)
+
+[GitHub Repo](https://github.com/MichaelAuricht/week-5-work-day-scheduler/)
+
