@@ -37,7 +37,7 @@ Use the save button assoiciated with the block to save it. This will remain even
 
 As the time passes during the day the colours of the blocks will change.
 
-### --**Technologies Used**--
+### **Technologies Used**
 
 HTML, CSS, JavaScript, JQuery and moment.min
 
