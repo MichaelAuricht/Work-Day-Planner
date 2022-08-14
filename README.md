@@ -31,9 +31,7 @@ Then I worked to create the dynamism that would change the colours of the day de
 
 ### Install Dependencies
 
-All NPM packages required for this application are already listed as dependencies in the package.json file. Run the command 'npm i' command in your terminal at the root directory level to install the packages.
-
-Ensure you have Node.js installed on your machine. The application will be invoked by entering node server.js in the command line.
+Clone repository Link - 
 
 ### Start Application
 
