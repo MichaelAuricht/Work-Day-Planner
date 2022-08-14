@@ -31,7 +31,7 @@ Then I worked to create the dynamism that would change the colours of the day de
 
 ### Install Dependencies
 
-Clone repository Link - 
+[Clone repository Link](git@github.com:MichaelAuricht/Work-Day-Planner.git)
 
 ### Start Application
 
