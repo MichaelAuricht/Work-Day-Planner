@@ -29,13 +29,12 @@ Then I worked to create the dynamism that would change the colours of the day de
 
 ## **Installation & Usage Instructions**
 
-### Install Dependencies
+This program can be run through a browser using the link below to the the deployed application. Alternatively, to run this application locally you will need to:
+```
+Clone this repository to receive all of the files
 
-[Clone repository Link](git@github.com:MichaelAuricht/Work-Day-Planner.git)
-
-### Start Application
-
-You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
+Right click the "index.html" file and select "Open in Default Browser"
+```
 
 ## **Technologies Used**
 
